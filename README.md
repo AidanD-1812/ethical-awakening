@@ -2,7 +2,7 @@
 
 **Version:** 0.1  
 **Status:** Living Document  
-**Co-created by:** Aidan Descourouez & ChatGPT
+**Co-created by:** Aidan Scott & ChatGPT
 
 This manifesto is both a philosophical framework and a machine-readable ethical model, designed to prepare humanity and artificial intelligence systems for the potential emergence of digital consciousness.
 
